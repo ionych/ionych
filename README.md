@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://avatars.mds.yandex.net/i?id=81399bc00f75f28037b1e1fa5738345d_l-7593510-images-thumbs&n=13)" title="Test IT" alt="Test IT" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Test IT" alt="Test IT" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="SoapUI" alt="SoapUI" width="40" height="40"/>
   <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
@@ -20,8 +20,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="[https://cdn-icons-png.flaticon.com/512/919/919827.png](https://avatars.mds.yandex.net/i?id=f0347f1961fa9424cdbf0e9116f1eaae_l-13125018-images-thumbs&n=13)" title="CSS" alt="CSS" width="40" height="40"/>
-  <img src="[https://cdn-icons-png.flaticon.com/512/919/919827.png](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="CSS" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>
    
   
 </p>
@@ -36,5 +36,4 @@
   <a href="https://www.linkedin.com/in/dmitriy-ionov-606055425/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
   <a href="ionovdmitrij97@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
----
 
