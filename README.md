@@ -30,6 +30,11 @@
 
 <h2>Артефакты тестирования</h2>
 
+<uL>
+
+ <li><a href="https://github.com/ionych/bash">Bash</a> – скрипты для QA задач</li>
+</uL>
+
 
 <h3 align="center">Давайте общаться и сотрудничать!</h3>
 <p align="center">
