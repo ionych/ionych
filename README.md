@@ -6,28 +6,29 @@
 ---
 
 <h2>Несколько инструментов, которые я использую</h2>
-<p align="center">
-  <!-- 1-я строка -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="35" height="35"/>
-  <img src="https://ucare.timepad.ru/bd2d3687-b7dd-4ca8-af37-2098a99bf04f/-/preview/308x600/-/format/jpeg/logo_org_167785.jpg" title="Test IT" alt="Test IT" width="35" height="35"/>
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="35" height="35"/>
-  <br>
-  <!-- 2-я строка -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="SoapUI" alt="SoapUI" width="35" height="35"/>
-  <img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="Postgre SQL" alt="Postgre SQL" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>
-  <br>
-  <!-- 3-я строка -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="35" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/1280px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="35" height="35"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="35" height="35"/>
-</p>
+<table align="center" cellpadding="8" cellspacing="5" border="0" style="max-width: 100%; width: 100%;">
+  <tr>
+    <td align="center" style="width: 20%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/><br><span style="font-size: 11px;">Jira</span></td>
+    <td align="center" style="width: 20%;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/><br><span style="font-size: 11px;">Figma</span></td>
+    <td align="center" style="width: 20%;"><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/><br><span style="font-size: 11px;">DevTools</span></td>
+    <td align="center" style="width: 20%;"><img src="https://ucare.timepad.ru/bd2d3687-b7dd-4ca8-af37-2098a99bf04f/-/preview/308x600/-/format/jpeg/logo_org_167785.jpg" title="Test IT" alt="Test IT" width="40" height="40"/><br><span style="font-size: 11px;">Test IT</span></td>
+    <td align="center" style="width: 20%;"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/><br><span style="font-size: 11px;">Postman</span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="SoapUI" alt="SoapUI" width="40" height="40"/><br><span style="font-size: 11px;">SoapUI</span></td>
+    <td align="center"><img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/><br><span style="font-size: 11px;">Charles</span></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/><br><span style="font-size: 11px;">MySQL</span></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/><br><span style="font-size: 11px;">PostgreSQL</span></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/><br><span style="font-size: 11px;">Git</span></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/><br><span style="font-size: 11px;">Bash</span></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/><br><span style="font-size: 11px;">VS Code</span></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/><br><span style="font-size: 11px;">HTML5</span></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/1280px-Official_CSS_Logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/><br><span style="font-size: 11px;">CSS</span></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/><br><span style="font-size: 11px;">Python</span></td>
+  </tr>
+</table>
 
 ---
 
