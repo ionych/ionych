@@ -1,3 +1,11 @@
+<h2>Доброго времени суток!</h2>
+
+---
+<p>Меня зовут Дмитрий и я Тестировщик ПО. Здесь я делюсь портфолио веб-тестирования, разработанным в рамках курсов и личных проектов. Вы можете ознакомиться с моим <a href="">resume</a></p>
+ 
+---
+
+<h2>Несколько инструментов, которые я использую</h2>
 <table align="center" cellpadding="5" cellspacing="0" border="0" style="max-width: 100%; display: block; overflow-x: auto; white-space: nowrap;">
   <tr style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="35" height="35"/></td>
@@ -17,3 +25,21 @@
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="35" height="35"/></td>
   </tr>
 </table>
+
+---
+
+<h2>Артефакты тестирования</h2>
+
+<uL>
+
+ <li><a href="https://github.com/ionych/bash">Bash</a> – скрипты для QA задач</li>
+ <li><a href="https://github.com/ionych/git.git">Git</a> – базовые команды контроля версий</li>
+ 
+</uL>
+
+
+<h3 align="center">Давайте общаться и сотрудничать!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dmitriy-ionov-606055425/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="ionovdmitrij97@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+</p>
