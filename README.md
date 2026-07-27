@@ -33,6 +33,8 @@
 <uL>
 
  <li><a href="https://github.com/ionych/bash">Bash</a> – скрипты для QA задач</li>
+ <li><a href="https://github.com/ionych/git.git">Git</a> – базовые команды контроля версий</li>
+ 
 </uL>
 
 
