@@ -36,14 +36,14 @@
 
 <h3>🔹 Ionov Agency — веб-приложение для рекламного агентства</h3>
 <ul>
-  <li><a href="https://github.com/ionych/ionov_agency">Исходный код</a> — Flask + PostgreSQL</li>
-  <li><a href="https://drive.google.com/drive/folders/1LpTK2q00O5KUpEDt3K4VmGm6llM775Zj?usp=sharing">Тест-план</a></li> - Тест-план Ionov Agency
-  <li><a href="https://drive.google.com/drive/folders/1-dl6XIpgWCiTENqpErb9AWs7vFRvqfnA?usp=drive_link">Чек-лист</a></li> - Чек-лист Ionov Agency
+  <li><a href="https://github.com/ionych/ionov_agency">Исходный код</a> — Исходный код Ionov Agency (стек Flask + PostgreSQL)</li>
+  <li><a href="https://drive.google.com/drive/folders/1LpTK2q00O5KUpEDt3K4VmGm6llM775Zj?usp=sharing">Тест-план</a> — Тест-план Ionov Agency</li> 
+  <li><a href="https://drive.google.com/drive/folders/1-dl6XIpgWCiTENqpErb9AWs7vFRvqfnA?usp=drive_link">Чек-лист</a> — Чек-лист Ionov Agency</li>
   <li><a href="https://drive.google.com/drive/folders/1q8eHNESHxYZIHIc-uEydSd8-GK0putpY?usp=sharing">Тест-кейсы (35 шт.)</a> — Тест-кейсы в системе управления тестированием Test IT</li>
   <li> <a href="https://drive.google.com/drive/folders/1ZVJ-eAdnuN864VgdOYkInFgMK30VFDFV?usp=sharing">Баг-репорты (Jira)</a> — Список багов, их оформление в Jira</li>
   <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Скриншоты тестирования</a>  — Тестирование и работа в Dbeaver, Charles Proxy, Postman, Chrome DevTools, Интерфейс веб-приложения, Баги</li>
   <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Результаты тестирования</a> — Результаты тестирования в Test IT</li>
-  <li> <a href="https://drive.google.com/drive/folders/1QXvT1JEpjIXwi-muRzeoJ5VYRGzy_4UK?usp=sharing">Итоговый отчёт о тестировании</a></li> — Итоговый отчёт о тестировании Ionov Agency
+  <li> <a href="https://drive.google.com/drive/folders/1QXvT1JEpjIXwi-muRzeoJ5VYRGzy_4UK?usp=sharing">Итоговый отчёт о тестировании</a> — Итоговый отчёт о тестировании Ionov Agency</li> 
   <li> <a href="https://drive.google.com/drive/folders/1XOyhplDk9N7JySiWqi6-I5RFLkHYo1fL?usp=sharing">Все артефакты тестирования Ionov Agency</a></li>
 </ul>
 
