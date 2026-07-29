@@ -59,7 +59,7 @@
 
 <h3>🔹 Сертификаты о прохождении курсов</h3>
 <ul>
-  <li><a href="https://drive.google.com/drive/folders/1U-Te501G9XvBP0yFjWwHtKifzwMADzjf?usp=sharing">Сертификат — Тестировщик ПО (Rusau)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1U-Te501G9XvBP0yFjWwHtKifzwMADzjf?usp=sharing">Сертификат — Тестирование ПО (Rusau)</a></li>
 </ul>
 
 <h3 align="center">Давайте общаться и сотрудничать!</h3>
