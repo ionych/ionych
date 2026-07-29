@@ -42,6 +42,7 @@
   <li><a href="https://drive.google.com/drive/folders/1q8eHNESHxYZIHIc-uEydSd8-GK0putpY?usp=sharing">Тест-кейсы (35 шт.)</a> — Тест-кейсы в системе управления тестированием Test IT</li>
   <li> <a href="https://drive.google.com/drive/folders/1ZVJ-eAdnuN864VgdOYkInFgMK30VFDFV?usp=sharing">Баг-репорты (Jira)</a> — Список багов, их оформление в Jira</li>
   <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Скриншоты тестирования</a>  — Тестирование и работа в Dbeaver, Charles Proxy, Postman, Chrome DevTools, Интерфейс веб-приложения, Баги</li>
+  <li> <a href="https://www.postman.com/bold-moon-757790/ion-team-workspace/collection/1k83zxf/ionov-agency?action=share&creator=56570314">Коллекция запросов</a> — Коллекция запросов в Postman</li>
   <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Результаты тестирования</a> — Результаты тестирования в Test IT</li>
   <li> <a href="https://drive.google.com/drive/folders/1QXvT1JEpjIXwi-muRzeoJ5VYRGzy_4UK?usp=sharing">Итоговый отчёт о тестировании</a> — Итоговый отчёт о тестировании Ionov Agency</li> 
   <li> <a href="https://drive.google.com/drive/folders/1XOyhplDk9N7JySiWqi6-I5RFLkHYo1fL?usp=sharing">Все артефакты тестирования Ionov Agency</a></li>
