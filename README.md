@@ -1,7 +1,7 @@
 <h2>Доброго времени суток!</h2>
 
 ---
-<p>Меня зовут Дмитрий и я Тестировщик ПО. Здесь я делюсь портфолио веб-тестирования, разработанным в рамках курсов и личных проектов. Вы можете ознакомиться с моим <a href="">resume</a></p>
+<p>Меня зовут Дмитрий и я занимаюсь тестированием ПО. Здесь я делюсь портфолио веб-тестирования, разработанным в рамках курсов и личных проектов. Вы можете ознакомиться с моим <a href="">resume</a></p>
  
 ---
 
@@ -34,13 +34,33 @@
 
 <h2>Артефакты тестирования</h2>
 
-<uL>
+<h3>🔹 Ionov Agency — веб-приложение для рекламного агентства</h3>
+<ul>
+  <li><a href="https://github.com/ionych/ionov_agency">Исходный код</a> — Flask + PostgreSQL</li>
+  <li><a href="https://drive.google.com/drive/folders/1LpTK2q00O5KUpEDt3K4VmGm6llM775Zj?usp=sharing">Тест-план</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1-dl6XIpgWCiTENqpErb9AWs7vFRvqfnA?usp=drive_link">Чек-лист</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1q8eHNESHxYZIHIc-uEydSd8-GK0putpY?usp=sharing">Тест-кейсы (35 шт.)</a></li>
+  <li> <a href="https://drive.google.com/drive/folders/1ZVJ-eAdnuN864VgdOYkInFgMK30VFDFV?usp=sharing">Баг-репорты (Jira)</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Скриншоты тестирования</a></li>
+  <li><a href="https://drive.google.com/drive/folders/1j3ov5Trne7jGITbK7-8R1f6OHl8ccZXl?usp=sharing">Результаты тестирования</a></li>
+  <li> <a href="https://drive.google.com/drive/folders/1QXvT1JEpjIXwi-muRzeoJ5VYRGzy_4UK?usp=sharing">Итоговый отчёт о тестировании</a></li>
+  <li> <a href="https://drive.google.com/drive/folders/1XOyhplDk9N7JySiWqi6-I5RFLkHYo1fL?usp=sharing">Все артефакты тестирования Ionov Agency</a></li>
+</ul>
 
- <li><a href="https://github.com/ionych/bash">Bash</a> – скрипты для QA задач</li>
- <li><a href="https://github.com/ionych/git.git">Git</a> – базовые команды контроля версий</li>
- 
-</uL>
+---
 
+<h3>🔹 Другие проекты</h3>
+<ul>
+  <li><a href="https://github.com/ionych/bash">Bash</a> – скрипты для QA задач</li>
+  <li><a href="https://github.com/ionych/git">Git</a> – базовые команды контроля версий</li>
+</ul>
+
+---
+
+<h3>🔹 Сертификаты о прохождении курсов</h3>
+<ul>
+  <li><a href="https://drive.google.com/drive/folders/1U-Te501G9XvBP0yFjWwHtKifzwMADzjf?usp=sharing">Сертификат — Тестировщик ПО (Rusau)</a></li>
+</ul>
 
 <h3 align="center">Давайте общаться и сотрудничать!</h3>
 <p align="center">
