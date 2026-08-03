@@ -64,7 +64,5 @@
 </ul>
 
 <h3 align="center">Давайте общаться и сотрудничать!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/dmitriy-ionov-606055425/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  <a href="ionovdmitrij97@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
-</p>
+
+
