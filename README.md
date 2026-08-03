@@ -37,7 +37,7 @@
 <h3>🔹 Ionov Agency — веб-приложение для рекламного агентства</h3>
 <ul>
   <li><a href="https://github.com/ionych/ionov_agency">Исходный код</a> — Исходный код Ionov Agency (стек Flask + PostgreSQL)</li>
-  <li><a href="https://docs.google.com/document/d/1f3yWKVz6yLGQoB59zoNGADfIqKCoAGDITNwXKJYMQN0/edit?usp=sharing">Тест-план</a> — Тест-план Ionov Agency</li> 
+  <li><a href="https://docs.google.com/document/d/1f3yWKVz6yLGQoB59zoNGADfIqKCoAGDITNwXKJYMQN0/edit?usp=sharing">Тест-план</a> — Тест-план Ionov Agency (ориентирован на стандарт IEEE 829)</li> 
   <li><a href="https://docs.google.com/spreadsheets/d/1HtPDmevwMK0Og8aZDYwHf2nLZUO-ztKMssRQkTsWiz8/edit?usp=sharing">Чек-лист</a> — Чек-лист Ionov Agency</li>
   <li><a href="https://drive.google.com/file/d/1sNcbQUbGbowUqFhLE-z6Trdigf-88cNE/view?usp=sharing">Тест-кейсы (35 шт.)</a> — Тест-кейсы в системе управления тестированием Test IT</li>
   <li> <a href="https://drive.google.com/drive/folders/1ZVJ-eAdnuN864VgdOYkInFgMK30VFDFV?usp=sharing">Баг-репорты (Jira)</a> — Список багов, их оформление в Jira</li>
