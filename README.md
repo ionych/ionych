@@ -15,7 +15,7 @@
     <td align="center" style="width: 20%;"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/><br><span style="font-size: 11px;">Postman</span></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://downloads.marketplace.jetbrains.com/files/15181/121416/icon/default.png" title="Swagger" alt="Swagger" width="40" height="40"/><br><span style="font-size: 11px;">Swagger</span></td>
+    <td align="center"><img src="https://avatars.mds.yandex.net/i?id=0660226f00cd24951c99ce8fbef2e61b_l-3548415-images-thumbs&n=13" title="Swagger" alt="Swagger" width="40" height="40"/><br><span style="font-size: 11px;">Swagger</span></td>
     <td align="center"><img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/><br><span style="font-size: 11px;">Charles</span></td>
     <td align="center"><img src="https://i.pinimg.com/originals/2e/60/ed/2e60ed4ebaa32a969c443fefda236886.png" title="Docker" alt="Docker" width="40" height="40"/><br><span style="font-size: 11px;">Docker</span></td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="Postgre SQL" alt="Postgre SQL" width="40" height="40"/><br><span style="font-size: 11px;">PostgreSQL</span></td>
